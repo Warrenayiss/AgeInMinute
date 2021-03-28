@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">AgeInMinute</string>
+    <string name="app_name">Your Age in Minutes</string>
+    <string name="calc_text">CALCULATE YOUR</string>
+    <string name="age_text">AGE</string>
+    <string name="minute_text">IN MINUTES</string>
+    <string name="slt_date">SELECT DATE</string>
+    <string name="selected_date">Selected Date</string>
+    <string name="minutes_subtitle">In minutes till date</string>
 </resources>

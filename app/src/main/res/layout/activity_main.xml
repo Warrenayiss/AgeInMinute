@@ -30,6 +30,7 @@
         android:textColor="#FFF"
         android:textSize="24sp"
         android:textStyle="bold"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -49,19 +50,23 @@
         android:textColor="@color/btnTextColor"
         android:textSize="20sp"
         android:textStyle="bold" />
+
     <TextView
+        android:id="@+id/tvSelectedDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="15dp"
         android:text="12/12/1999"
         android:textColor="@color/textColorPrimary"
-        android:textSize="20sp"/>
+        android:textSize="20sp" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/selected_date"
         android:textColor="@color/subtitleColor"
         android:textSize="17sp"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -69,6 +74,7 @@
         android:text="140000"
         android:textColor="@color/textColorPrimary"
         android:textSize="30sp"/>
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
